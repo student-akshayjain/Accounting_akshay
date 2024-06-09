@@ -1,4 +1,4 @@
 # Accounting_akshay
 This is my first repositoty
-name- akshay jain
+name- ak
 Project golang
